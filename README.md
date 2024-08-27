@@ -10,7 +10,7 @@ I have over 60 subscribers on [YouTube](https://https://youtube.com/@dencrn) and
 
 <img align="right" alt="Dencrn" width="180" src="https://github.com/Dencrn/Dencrn/blob/main/dencrn.png"/>
 
-* 📽️ Video Editor | 9+ Years of Overall experience. 3 Years experience with Premiere Pro, 2 Years experience with Vegas Pro, 2 Years experience with iMovie for iPad and **1 Years experience with Davinci Resolve**
+* 📽️ Video Editor | 9+ Years of Overall experience. 3.5 Years experience with Premiere Pro, 2.5 Years experience with Vegas Pro, 2 Years experience with iMovie for iPad and **1 Years experience with Davinci Resolve**
 * 💻 Low-level Coder (mainly HTML and occasionally PowerShell)
 * 🏫 Recent High School Gruaduate
 
