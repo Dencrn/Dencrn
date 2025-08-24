@@ -5,7 +5,7 @@
 I primarily code in **HTML** as a hobby.
 However, I'm mostly known for making any video that has a <img src="apple.png" width="16" /> logo on it, for some weird reason. 😨
 
-I have over 150 subscribers on [YouTube](https://https://youtube.com/@dencrn) and over 5 followers on [Twitter](https://twitter.com/dencrn).  
+I have over 150 subscribers on [YouTube](https://youtube.com/@dencrn) and over 5 followers on [Twitter](https://twitter.com/dencrn).  
 **I am [Dencrn](COMING SOON!!), but you can call me Dean.**
 
 <img align="right" alt="Dencrn" width="180" src="https://github.com/Dencrn/Dencrn/blob/main/dencrn.png"/>
